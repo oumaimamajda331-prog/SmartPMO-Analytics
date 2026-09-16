@@ -1,4 +1,4 @@
-# SmartPMO – AI Project & Resource Intelligence Dashboard
+# SmartPMO  AI Project & Resource Intelligence Dashboard
 
 Ein interaktives IT-Consulting Management-Dashboard, entwickelt mit **Python**, **Streamlit** und **Plotly**.
 
